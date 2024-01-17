@@ -176,3 +176,25 @@ Received Import Request.
   path: Assets/Materials/Ground_Mat.mat
   artifactKey: Guid(07c79b25c7a6ebd4bac7731d5a38e79f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Materials/Ground_Mat.mat using Guid(07c79b25c7a6ebd4bac7731d5a38e79f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b36f76c685efc1d13c98084918dca59c') in 0.018868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 654.131585 seconds.
+  path: Assets/Wispy Sky/Materials/WispySkyboxCubeMat2.mat
+  artifactKey: Guid(794eb5f8516828240b12c676f5aac8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wispy Sky/Materials/WispySkyboxCubeMat2.mat using Guid(794eb5f8516828240b12c676f5aac8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88f04a7f086c01eac72d45ec3f6af9c5') in 0.062162 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Wispy Sky/Materials/WispySkyboxMobileMat2.mat
+  artifactKey: Guid(9f327c06f8120874aa029411cd0352cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wispy Sky/Materials/WispySkyboxMobileMat2.mat using Guid(9f327c06f8120874aa029411cd0352cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54219b290fcf363195afa17a8399e32a') in 0.141537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Wispy Sky/Materials/WispySkyboxMat.mat
+  artifactKey: Guid(fb3b9b55c01d2194c816b2d469854e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wispy Sky/Materials/WispySkyboxMat.mat using Guid(fb3b9b55c01d2194c816b2d469854e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e27adcf0e38584e40e1c554e8a06675e') in 0.116943 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
